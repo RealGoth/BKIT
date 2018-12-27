@@ -1,0 +1,6 @@
+C:\Users\Radmir\Desktop\BKIT_Labs-Lab7\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Radmir\Desktop\BKIT_Labs-Lab7\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Radmir\Desktop\BKIT_Labs-Lab7\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\Radmir\Desktop\BKIT_Labs-Lab7\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Radmir\Desktop\BKIT_Labs-Lab7\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Radmir\Desktop\BKIT_Labs-Lab7\lab7\lab7\obj\Debug\lab7.pdb
